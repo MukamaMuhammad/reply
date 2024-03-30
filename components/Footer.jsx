@@ -5,8 +5,8 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer class="py-10">
-      <div class="   flex items-center justify-between sm:flex-row flex-col">
+    <footer class="py-10 mx-auto">
+      <div class="flex items-center justify-between sm:flex-row flex-col">
         <div>
           <a class="flex title-font font-medium items-center md:justify-start justify-center ">
             <Image
